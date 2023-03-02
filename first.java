@@ -2,6 +2,6 @@ import java.util.*;
 
 public class first{
 public static void main(String[] args){
-System.out.println("Webhooks");
+System.out.println("Webhooks-demo");
 }
 }
